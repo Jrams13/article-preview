@@ -70,8 +70,8 @@ body {
 }
 
 /* right side of the card */
-.right-side {
-    height: 300px;
+.article_right {
+    height: 100%;
     padding: 35px;
 }
 
@@ -219,8 +219,8 @@ body {
 }
 
 
-.right-side {
-    height: 300px;
+.article_right {
+    height: 100%;
     padding: 35px;
 }
 
